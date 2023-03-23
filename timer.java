@@ -2,7 +2,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.ZoneId;
 
-public class Main {
+public class Timer {
     public static void main(String[] args) {
         // Get the current date and time
         LocalDateTime now = LocalDateTime.now();
