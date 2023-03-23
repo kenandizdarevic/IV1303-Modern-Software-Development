@@ -1,2 +1,4 @@
 # IV1303-Modern-Software-Development
-KTH Royal Institute of Technology
+The course in Modern Software Development presents basic software engineering concepts and discusses how they are applied within modern software development. It discusses current problems within traditional software engineering and  presents how they have been addressed with modern methods. While presenting the development cycle, the course will present various modern practices such as for instance, iterative development, pair programming, refactoring, test-first programming, release planning, retrospectives, and show how those are combined. Finally, the course discusses future methodological trends.
+
+This course is integrated with two other project courses, which together cover both the theory and practice of modern development methods. During this course, the students will acquaint themselves with the theory, whereas during the project courses, the student will practice the modern methods.
